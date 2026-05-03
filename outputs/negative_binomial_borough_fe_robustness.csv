@@ -1,0 +1,6 @@
+label,main_nb_irr,borough_fe_nb_irr,borough_fe_pvalue
+Deprived >=2 dimensions,1.164,1.164,0.0
+Log population density,0.774,0.782,0.0
+Social rented share,1.375,1.39,0.0
+Private rented share,1.488,1.548,0.0
+Communal establishment share,1.086,1.086,0.0

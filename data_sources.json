@@ -1,0 +1,34 @@
+{
+  "mps_lsoa_crime_recent_24m.csv": {
+    "url": "https://data.london.gov.uk/download/exy3m/nmy/MPS%20LSOA%20Level%20Crime%20(most%20recent%2024%20months).csv",
+    "bytes": 13534958
+  },
+  "id2019_london.xlsx": {
+    "url": "https://data.london.gov.uk/download/2l15g/9ee0cf66-e6f9-4e38-8eec-79c1d897e248/ID%202019%20for%20London.xlsx",
+    "bytes": 3926592
+  },
+  "census2021_ts001.zip": {
+    "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts001.zip",
+    "bytes": 1870128
+  },
+  "lsoa2021_boundaries_attributes.csv": {
+    "url": "https://open-geography-portalx-ons.hub.arcgis.com/api/download/v1/items/68515293204e43ca8ab56fa13ae8a547/csv?layers=0",
+    "bytes": 4953303
+  },
+  "census2021_ts006.zip": {
+    "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts006.zip",
+    "bytes": 1849811
+  },
+  "census2021_ts011.zip": {
+    "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts011.zip",
+    "bytes": 2765908
+  },
+  "census2021_ts054.zip": {
+    "url": "https://www.nomisweb.co.uk/output/census/2021/census2021-ts054.zip",
+    "bytes": 4074446
+  },
+  "lsoa2021_boundaries_bgc_shapefile.zip": {
+    "url": "https://open-geography-portalx-ons.hub.arcgis.com/api/download/v1/items/68515293204e43ca8ab56fa13ae8a547/shapefile?layers=0",
+    "bytes": 17350732
+  }
+}
